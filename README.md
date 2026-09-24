@@ -3,7 +3,7 @@
 Actividad de Testing con Jest — Auditoría, depuración y aseguramiento de calidad
 de una API REST (Node.js + Express).
 
-**Integrantes:** [Tu nombre] y [Nombre de tu compañero/a]
+**Integrantes:** Harrisson Montaña y Valeria Ordoñez
 **Backend asignado:** Drone Delivery Hub (plataforma de gestión de flota de drones de reparto)
 
 ---
