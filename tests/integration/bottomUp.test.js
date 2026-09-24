@@ -19,7 +19,7 @@ describe('Integración Bottom-Up: Modelo -> Service -> Controlador (sin mocks)',
         const resultado = DroneService.dispatch('D-01', 10);
         const desdeModelo = DroneModel.findById('D-01');
 
-        expect(resultado).toBe(desdeModelo); // misma referencia en memoria
+        expect(resultado).toBe(desdeModelo);
         expect(desdeModelo.battery).toBe(80);
         expect(desdeModelo.status).toBe('en-vuelo');
     });
